@@ -53,3 +53,5 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+/docs/Learning-eBPF_-_Full_book__1.pdf
