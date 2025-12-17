@@ -54,4 +54,7 @@ dkms.conf
 # debug information files
 *.dwo
 
-/docs/Learning-eBPF_-_Full_book__1.pdf
+/docs/*
+docs/theory/Learning-eBPF_-_Full_book__1.pdf
+docs/eBPF_CVEs_new_exploits(Sheet1).csv
+docs/eBPF_CVEs_new_exploits.pdf
